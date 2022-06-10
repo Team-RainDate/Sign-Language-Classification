@@ -10,7 +10,7 @@ Web-application **"Sign-language-classification"** is buit for ITS307 Data Analy
 
 *Sign-language-classification-web-application allows users to upload the pictures of sign-langauge and it will predict and classify the sign-languages*
 
-**Note: This web-application is trained to detect following sign-langauges**
+**Note: This web-application is trained to classify following sign-langauges**
 1. Like 
 2. Dislike 
 3. live long 
