@@ -17,10 +17,11 @@ Web-application **"Sign-language-classification"** is buit for ITS307 Data Analy
 5. peace 
 6. okey
 
-Check our Application [www.face.com]
+Check our Application [https://sign-language-classification.herokuapp.com]
 
 Application is built using Python,HTML/CSS/JS,Bootstrap
 
 ## Screenshot of the application
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-47-47.png'>
 
 
