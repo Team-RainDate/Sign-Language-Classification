@@ -1,0 +1,7 @@
+0 Like
+1 Dislike
+2 Livelong
+3 Love
+4 Okey
+5 Peace
+6 unknown
