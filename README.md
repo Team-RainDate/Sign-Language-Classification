@@ -4,8 +4,9 @@ Web-application **"Sign-language-classification"** is buit for ITS307 Data Analy
 
 ### Why Sign language classification 
 
-1. Poor communication amoung normal/deaf/dumb people 
-2. No accuratre system for detection of sign language
+1. Poor communication between normal people and people who have disability in hearing and listening
+2. Poor communication among people who are disable in hearing and listening
+3. No accuratre system for detection of sign language
 
 *Sign-language-classification-web-application allows users to upload the pictures of sign-langauge and it will predict and classify the sign-languages*
 
@@ -17,7 +18,7 @@ Web-application **"Sign-language-classification"** is buit for ITS307 Data Analy
 5. peace 
 6. okey
 
-Check our Application [https://sign-language-classification.herokuapp.com]
+Visit our [Web-Application](https://sign-language-classification.herokuapp.com)
 
 Application is built using Python,HTML/CSS/JS,Bootstrap
 
