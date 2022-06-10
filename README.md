@@ -21,7 +21,26 @@ Check our Application [https://sign-language-classification.herokuapp.com]
 
 Application is built using Python,HTML/CSS/JS,Bootstrap
 
+### Poster
+
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Poster/poster.jpeg'>
+
+
 ## Screenshot of the application
 <img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-47-47.png'>
 
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-50-36.png'>
 
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-50-55.png'>
+
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-51-37.png'>
+
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-51-48.png'>
+
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-51-57.png'>
+
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2000-52-07.png'>
+
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2001-20-08.png'>
+
+<img src='https://github.com/Team-RainDate/Sign-Language-Classification/blob/main/Screenshot%20of%20Web-Application/Screenshot%20from%202022-06-11%2001-20-53.png'>
