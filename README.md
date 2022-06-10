@@ -15,8 +15,8 @@ Web-application **"Sign-language-classification"** is buit for ITS307 Data Analy
 2. Dislike 
 3. live long 
 4. Love
-5. peace 
-6. okey
+5. Peace 
+6. Okey
 
 Click here to visit our [Web-Application](https://sign-language-classification.herokuapp.com)
 
