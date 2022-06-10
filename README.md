@@ -1,6 +1,6 @@
 # Sign-language-classification-Web-Application by Team-RainDate
 
-Web-application **"Sign-language-classification"** is buit for ITS307 Data Analytics group project by Team-RainDate. This application is built to utilize data analytics and machine learning tools to extract features, pre-process, clean, analyze, interpret and visualize from online available structured datasets to derive a conclusion regarding the information they hold and predict the future.
+Web-application **"Sign-language-classification"** is buit for ITS307 Data Analytics group project by Sign-Team. This application is built to utilize data analytics and machine learning tools to extract features, pre-process, clean, analyze, interpret and visualize from online available structured datasets to derive a conclusion regarding the information they hold and predict the future.
 
 ### Why Sign language classification 
 
@@ -18,7 +18,7 @@ Web-application **"Sign-language-classification"** is buit for ITS307 Data Analy
 5. peace 
 6. okey
 
-Visit our [Web-Application](https://sign-language-classification.herokuapp.com)
+Click here to visit our [Web-Application](https://sign-language-classification.herokuapp.com)
 
 Application is built using Python,HTML/CSS/JS,Bootstrap
 
